@@ -10,6 +10,6 @@ Facebook ve Instagram entegre edilmiştir.
 
 <h3>  Ekran Görünümü</h3>
 
-![](ekran.gif)
+! [](ekran.gif)
 
 
